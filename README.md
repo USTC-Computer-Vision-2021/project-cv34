@@ -68,7 +68,7 @@ while True:
     │   ├─bg.jpg(before image)
     │   └─fg.jpg(after image)
     └─result   
-       └─output.gif(实例中截取为两个gif-demo1.gif、demo2.gif)   
+       └─output.mp4(示例中截取为两个gif-demo1.gif、demo2.gif)   
 ## 运行说明
 * version  
     python3.9.7  
