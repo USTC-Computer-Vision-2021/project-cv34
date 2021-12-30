@@ -70,7 +70,7 @@ while True:
     └─result   
        └─output.gif   
 ## 运行说明
-* version
+* version  
     python3.9.7  
     pygame2.1.2  
     opencv4.5.3  
