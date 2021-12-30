@@ -70,10 +70,12 @@ while True:
     └─result   
        └─output.gif   
 ## 运行说明
-python3.9.7
-pygame2.1.2
-opencv4.5.3
-conda config --add channels conda-forge
-conda install pygame
-conda install opencv
-python cv.py  ##运行
+* version
+    python3.9.7  
+    pygame2.1.2  
+    opencv4.5.3  
+* install  
+    conda config --add channels conda-forge  
+    conda install pygame  
+    conda install opencv  
+    python cv.py  ##运行
