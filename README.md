@@ -60,7 +60,7 @@ while True:
 ## 效果展示
 如下所示：
 * GIF：由于gif分辨率过高，分成两个文件上传：[demo1.gif](https://postimg.cc/G8tdLbvj) 、 [demo2.gif](https://postimg.cc/1fGhZ8LQ)
-* MP4：[/result/recording_demo.mp4](https://github.com/USTC-Computer-Vision-2021/project-cv34/blob/main/recording_demo.mp4)
+* MP4：[/cv/result/output.mp4](https://github.com/USTC-Computer-Vision-2021/project-cv34/blob/main/recording_demo.mp4)
 ## 工程结构  
     ├─code
     │   └─main.py
