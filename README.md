@@ -10,7 +10,7 @@
 然而有限的自然资源资源终究无法满足无限的贪婪和欲望。如今的泰坦星，早已变得，满目疮痍。  
 [![bg.jpg](https://i.postimg.cc/7YYp9j2Q/bg.jpg)](https://postimg.cc/0rFW2WZp)  
 现在，就让我们借助发达的技(xiàn)术(shí)手(bǎo)段(shí)来回顾这个帝国昔日的荣光吧！  
-* 我们希望调用[pygame]([pygame](https://www.pygame.org/))，通过获取鼠标的位置，融合并匹配同一场景的不同时间（现实状态），
+* 我们希望调用[pygame]([pygame](https://www.pygame.org/))，通过获取鼠标的位置，融合并匹配同一场景的不同时间（现实状态）。
 
  
 ## 原理分析
